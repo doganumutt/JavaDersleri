@@ -18,6 +18,8 @@ public class JavaDersleri {
         System.out.println("Deneme");//Umut
         System.out.println("Deneme");
 
+
+        System.out.println("Deneme");//mustafa yorum satiri
     }
 
 }
