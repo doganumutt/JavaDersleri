@@ -15,7 +15,7 @@ public class JavaDersleri {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Deneme");//Umut
+        System.out.println("Deneme");//Umut//Mustafa
         System.out.println("Deneme");
 
 
