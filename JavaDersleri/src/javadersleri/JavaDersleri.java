@@ -15,11 +15,15 @@ public class JavaDersleri {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         System.out.println("Deneme");//Umut//Mustafa
+
+        System.out.println("Deneme");//Umut dogan selam olsun
+
         System.out.println("Deneme");
 
 
-        System.out.println("Deneme");//mustafa yorum satiri
+        System.out.println("Deneme");//mustafa yorum satiri mustafa burada
     }
 
 }
