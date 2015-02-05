@@ -12,6 +12,6 @@ package LolMusti;
  */
 public class musti {
     public static void main(String[] args) {
-        System.out.println("MUsti");
+        System.out.println("selam");
     }
 }
