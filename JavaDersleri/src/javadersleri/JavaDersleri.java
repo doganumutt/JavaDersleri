@@ -25,12 +25,12 @@ public class JavaDersleri {
         Arrays.fill(dizi2, "4");
         int a=Arrays.binarySearch(dizi1, "b");
         System.out.println(a);
-//        if(Arrays.equals(dizi1, dizi2))
-//            System.out.println("Eşit");
-//        else
-//            System.out.println("Degil");
-//        for (int i = 0; i < dizi2.length; i++) {
-//            System.out.println(dizi2[i]);
-//        }
+        if(Arrays.equals(dizi1, dizi2))
+            System.out.println("Eşit");
+        else
+            System.out.println("Degil");
+        for (int i = 0; i < dizi2.length; i++) {
+            System.out.println(dizi2[i]);
+        }
     }
 }
