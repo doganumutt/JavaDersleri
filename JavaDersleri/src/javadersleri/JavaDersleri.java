@@ -30,7 +30,7 @@ public class JavaDersleri {
         else
             System.out.println("Degil");
         for (int i = 0; i < dizi2.length; i++) {
-            System.out.println(dizi2[i]);
+            System.out.println(dizi2[i]);//deneme
         }
     }
 }
