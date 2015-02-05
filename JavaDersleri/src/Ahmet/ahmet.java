@@ -14,6 +14,7 @@ public class ahmet {
     public static void main(String[] args) {
         System.out.println("Ahmet");
         System.err.println("Umut");
+        System.out.println("çiftçi");   
     }
     
 }
